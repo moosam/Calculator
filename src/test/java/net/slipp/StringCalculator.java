@@ -3,7 +3,8 @@ package net.slipp;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-
+import static org.junit.Assert.*;
+import static org.hamcrest.CoreMatchers.*;
 
 public class StringCalculator {
 
